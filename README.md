@@ -3,4 +3,3 @@
 2. Lex.java: This file reads in two file names. The first argument is the input file and Lex.java reads in each line of the input file saving it in a string array. The array is sorted in alphabetical order using the abstract data type listed above. This alphabetical order is kept track with a list that stores the indices of the string array in the correct alphabetical order. 
 
 3. README: Table of Contents for this project. 
-
